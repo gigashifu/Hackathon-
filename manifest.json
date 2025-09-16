@@ -1,0 +1,21 @@
+{
+  "name": "Nabha E-Shiksha",
+  "short_name": "E-Shiksha",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#4a90e2",
+  "description": "An offline digital learning platform for students in Nabha.",
+  "images": [
+    {
+      "src": "assets/images/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
